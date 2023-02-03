@@ -20,7 +20,7 @@ class myBio extends SoftwareDeveloper {
 
 class mySkills extends SoftwareDeveloper {
 
-  constructor(name, title, location) {
+  constructor(languages, databases, technologies) {
 
   this.languages    = ['JavaScript', 'HTML', 'CSS', 'Bootstrap'];
   this.databases    = ['MongoDB', 'MySQL'];
